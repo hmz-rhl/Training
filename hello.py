@@ -4,4 +4,10 @@
 print("Hello World !")
 
 # declaration et attrib de i
-i = 1
+
+#bonjour
+
+i = "hamza"
+
+
+print((i))
