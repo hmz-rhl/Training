@@ -6,4 +6,4 @@ while 1:
     data = f.read(24)
     print struct.unpack('4IHHI',data)
 
-    
+print("")
